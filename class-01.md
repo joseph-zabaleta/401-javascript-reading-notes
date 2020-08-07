@@ -11,11 +11,11 @@
 #### 3. What does the node package manager do?  
 - It arranges the modules so that node.js can find them, and manage dependencies. It is used to publish, discover, install, and develop node programs.  
 #### 4. Provide code snippets showing 3 different ways to export a function from a node module
-
+  
 ```js
 module.exports = 'Hello World';
 ```
-
+  
 ```js
 const someFunction = () => {
     return 'Hello World';
@@ -23,7 +23,7 @@ const someFunction = () => {
 
 exports.someFunction = someName;
 ```
-
+  
 ```js
 let someModule = require('path/to/module.js');
 ```
