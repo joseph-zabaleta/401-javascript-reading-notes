@@ -61,8 +61,9 @@ let someModule = require('path/to/module.js');
     - A computer program that executes code written in a programming language without requiring them to have been compiled into a machine language.    
         - Resource: [Difference between Interpreter and Compiler](https://www.programiz.com/article/difference-compiler-interpreter)  
 - `compiler` :  
-    - A computer program that translate computer code written in a programming language into another language.    
+    - A computer program that translate computer code written in a programming language into another language.  
         - Resource: [Difference between Interpreter and Compiler](https://www.programiz.com/article/difference-compiler-interpreter)  
+         
 ---
 
 ## Additional Resources  
