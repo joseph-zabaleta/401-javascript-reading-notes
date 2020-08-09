@@ -11,3 +11,4 @@ This is a collection of all my notes for my reading assigments throughout the co
 ---
   
 - [Class-01 Node Ecosystem, TDD, CI/CD](class-01.md)  
+- [Class-02 Classes, Inheritance, Functional Programming](class-02.md)  

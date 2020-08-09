@@ -6,10 +6,13 @@
 
 #### 1. Why would you want to run JavaScript code outside of a browser?  
 - The main purpose to run Javascript code outside of a browser is when you are using Node.js. This is mainly used in backend programming when you are using JavaScript to interact with database's and creating RESTful APIs.  
+
 #### 2. What is the difference between a module and a package?  
 - A module is a single file while a package is a collection of modules/files. A package is a file/directory of modules.  
+
 #### 3. What does the node package manager do?  
 - It arranges the modules so that node.js can find them, and manage dependencies. It is used to publish, discover, install, and develop node programs.  
+
 #### 4. Provide code snippets showing 3 different ways to export a function from a node module
   
 ```js
@@ -27,7 +30,6 @@ exports.someFunction = someName;
 ```js
 let someModule = require('path/to/module.js');
 ```
-
 
 ---
 
