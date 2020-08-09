@@ -16,6 +16,7 @@
 - `Update`: Updates records in a data model / database.  
 - `Delete`: Deletes a record from a data model / database.  
 - Resource: [codecademy.com](https://www.codecademy.com/articles/what-is-crud)  
+  
 ### 3. What kind of database is Postgres? What kind of database is MongoDB?
 - `Postgres`: An object-relational SQL database  
     - Resource: [postgresql.org](https://www.postgresql.org/about/)  
@@ -87,10 +88,10 @@
 
 ### Cloud Databases  
 There are a few alternatives to running Mongo locally for your web servers  
-- [Mlab]() :  remotely hosted mongoDB systems. Easily setup a free database (or pay for more horsepower). Works great with Heroku  
-- [Atlas]() : Cloud based, highly scalable Mongo DB  
-- [DynamoDB]() : AWS NoSQL Database. Very highly scalable. Also provides a ‘mongoose’-like ORM called ‘dynamoose’  
-- [CosmosDB]() : The Microsoft Azure equivalent for Atlas and Dynamo  
+- [Mlab](https://www.mlab.com/) :  remotely hosted mongoDB systems. Easily setup a free database (or pay for more horsepower). Works great with Heroku  
+- [Atlas](https://www.mongodb.com/cloud/atlas) : Cloud based, highly scalable Mongo DB  
+- [DynamoDB](https://aws.amazon.com/dynamodb/) : AWS NoSQL Database. Very highly scalable. Also provides a ‘mongoose’-like ORM called ‘dynamoose’  
+- [CosmosDB](https://cosmos.azure.com/) : The Microsoft Azure equivalent for Atlas and Dynamo  
 
 ### Videos  
 - [sql vs nosql](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)  

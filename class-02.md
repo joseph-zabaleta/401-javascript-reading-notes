@@ -4,25 +4,25 @@
 
 ## Reading, Research, and Discussion
 
-#### 1. Name 3 advantages to Test Driven Development 
+### 1. Name 3 advantages to Test Driven Development 
 - Greater Code quality
 - Detailed Documentation as each piece of code has a strict specification it has to follow  
 - Reduces time required for project development as TDD identifies issues fast and as you write your code. One problem at a time vs at the end of a module having 20 pieces failing.  
 ![TDD](./assets/tdd.png)
     - Resource: [codica.com](https://www.codica.com/blog/test-driven-development-benefits/)  
 
-#### 2. In what case would you need to use beforeEach() or afterEach() in a test suite?  
+### 2. In what case would you need to use beforeEach() or afterEach() in a test suite?  
 - `beforeEach()`:  
     - Before each test, we might want to set up a test database to run tests without affecting the real database.  
 - `afterEach()`:  
     - After each test, we might want to tear down that test database to start fresh again.  
 - Resource: [jestjs.io](https://jestjs.io/docs/en/api)  
 
-#### 3. What is one downside of Test Driven Development  
+### 3. What is one downside of Test Driven Development  
 - Requires a lot of upfront time and effort to think of the possible outcomes / scenarios for your code.  
 - It will find bugs for test you wrote, but will not cover those bugs during implementation.  
 
-#### 4. What’s the primary difference between ES6 Classes and Constructor/Prototype Classes?  
+### 4. What’s the primary difference between ES6 Classes and Constructor/Prototype Classes?  
 - Constructors:  
     - They do not belong to a class  
     - They create objects
@@ -31,12 +31,12 @@
     - They inherit all classes properties and attributes
     - If new things are added to class they are available to that object  
 
-#### 5. Name a use case for a static method  
+### 5. Name a use case for a static method  
 - Static methods have no access to data stored in specific objects.  
 - A use case could be for a specific class to have a static method that does not need to be a part of a instance of that class but it available to the class in order to create an instance of a class.  
     - Resource: [Medium.com](https://medium.com/@yyang0903/static-objects-static-methods-in-es6-1c026dbb8bb1)  
 
-#### 6. Write an example of a Higher Order Function and describe the use case it solves.  
+### 6. Write an example of a Higher Order Function and describe the use case it solves.  
 
 ```js
 
