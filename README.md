@@ -16,3 +16,5 @@ This is a collection of all my notes for my reading assigments throughout the co
 - [Class-04 Advanced Mongo/Mongoose](class-04.md)  
 - [Class-05 Linked Lists Data Structures](class-05.md)  
 - [Class-06 HTTP and REST](class-06.md)  
+- [Class-07 Express](class-07.md)  
+- [Class-08 Express Routing & Connected API](class-08.md)  

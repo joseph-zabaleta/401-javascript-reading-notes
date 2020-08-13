@@ -1,4 +1,5 @@
-# Class-
+# Class-08 Readings: Express Routing & Connected API
+
 [Table of Contents](README.md)  
 
 ## Reading, Research, and Discussion
