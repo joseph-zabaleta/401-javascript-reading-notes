@@ -1,4 +1,4 @@
-# Class-
+# Class-05 Linked Lists
 [Table of Contents](README.md)  
 
 ## Reading, Research, and Discussion

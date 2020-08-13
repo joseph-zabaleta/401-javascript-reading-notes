@@ -15,3 +15,4 @@ This is a collection of all my notes for my reading assigments throughout the co
 - [Class-03 Data Modeling & NoSQL Databases](class-03.md)  
 - [Class-04 Advanced Mongo/Mongoose](class-04.md)  
 - [Class-05 Linked Lists Data Structures](class-05.md)  
+- [Class-06 HTTP and REST](class-06.md)  
