@@ -19,3 +19,4 @@ This is a collection of all my notes for my reading assigments throughout the co
 - [Class-07 Express](class-07.md)  
 - [Class-08 Express Routing & Connected API](class-08.md)  
 - [Class-09 API Server](class-09.md)  
+- [Class-10 Stacks and Queues](class-10.md)   
