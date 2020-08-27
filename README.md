@@ -23,3 +23,4 @@ This is a collection of all my notes for my reading assigments throughout the co
 - [Class-11 Authentication](class-11.md)  
 - [Class-12 OAuth](class-12.md) 
 - [Class-13 Bearer Authorization](class-13.md)  
+- [Class-14 Access Control (ACL)](class-14.md)  
