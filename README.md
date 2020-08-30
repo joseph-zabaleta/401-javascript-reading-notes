@@ -25,3 +25,9 @@ This is a collection of all my notes for my reading assigments throughout the co
 - [Class-13 Bearer Authorization](class-13.md)  
 - [Class-14 Access Control (ACL)](class-14.md)  
 - [Class-15 Trees](class-15.md)  
+- [Class-16 Event Driven Applications](class-16.md)  
+- [Class-17 TCP Servers](class-17.md)  
+- [Class-18 Socket.io](class-18.md)  
+- [Class-19 Message Queues](class-19.md)  
+
+
