@@ -1,4 +1,5 @@
-# Class-
+# Reading: Component Based UI
+
 [Table of Contents](README.md)  
 
 ## Reading, Research, and Discussion
