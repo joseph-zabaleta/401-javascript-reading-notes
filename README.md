@@ -30,4 +30,4 @@ This is a collection of all my notes for my reading assigments throughout the co
 - [Class-18 Socket.io](class-18.md)  
 - [Class-19 Message Queues](class-19.md)  
 - [Class-26 Component Based UI](class-26.md)  
-
+- [Class-27 Props and State](class-27.md)  
