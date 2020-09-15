@@ -33,3 +33,4 @@ This is a collection of all my notes for my reading assigments throughout the co
 - [Class-27 Props and State](class-27.md)  
 - [Class-28 Component Composition](class-28.md)  
 - [Class-29 Routing](class-29.md)  
+- [Class-30 Hash Tables](class-30.md)  
