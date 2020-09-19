@@ -34,3 +34,4 @@ This is a collection of all my notes for my reading assigments throughout the co
 - [Class-28 Component Composition](class-28.md)  
 - [Class-29 Routing](class-29.md)  
 - [Class-30 Hash Tables](class-30.md)  
+- [Class-31 Hooks API](class-31.md)  
