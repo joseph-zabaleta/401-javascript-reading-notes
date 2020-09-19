@@ -35,3 +35,4 @@ This is a collection of all my notes for my reading assigments throughout the co
 - [Class-29 Routing](class-29.md)  
 - [Class-30 Hash Tables](class-30.md)  
 - [Class-31 Hooks API](class-31.md)  
+- [Class-32 Custom Hooks](class-32.md)  
