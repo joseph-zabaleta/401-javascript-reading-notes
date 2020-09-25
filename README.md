@@ -39,3 +39,7 @@ This is a collection of all my notes for my reading assigments throughout the co
 - [Class-33 Context API](class-33.md)  
 - [Class-34 Login and Auth](class-34.md)  
 - [Class-35 Graphs](class-35.md)  
+- [Class-36 Application State with Redux](class-36.md)  
+- [Class-37 Redux - Combined Reducers](class-37.md)  
+- [Class-38 Redux - Asynchronous Actions](class-38.md)  
+- [Class-39 Redux - Additional Topics](class-39.md)  
