@@ -36,3 +36,6 @@ This is a collection of all my notes for my reading assigments throughout the co
 - [Class-30 Hash Tables](class-30.md)  
 - [Class-31 Hooks API](class-31.md)  
 - [Class-32 Custom Hooks](class-32.md)  
+- [Class-33 Context API](class-33.md)  
+- [Class-34 Login and Auth](class-34.md)  
+- [Class-35 Graphs](class-35.md)  
